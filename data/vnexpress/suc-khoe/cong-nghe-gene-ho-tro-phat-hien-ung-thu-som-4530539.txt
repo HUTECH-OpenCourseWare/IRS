@@ -1,0 +1,35 @@
+Công nghệ gene hỗ trợ phát hiện ung thư sớm 
+Công nghệ gene phân tích ctDNA do khối u phóng thích vào máu, có thể bổ sung cho các phương pháp sinh thiết, nội soi, chẩn đoán hình ảnh… để tầm soát ung thư sớm.
+
+Trong chương trình tọa đàm, "Cập nhật xu hướng thế giới về tầm soát sớm ung thư" trên VnExpress (chiều 26/10), GS.TS.BS Nguyễn Sào Trung - Ủy viên BCH Hội Phòng chống Ung thư Việt Nam và Hội Ung thư TP HCM, cho biết đa số bệnh nhân ung thư tại Việt Nam phát hiện bệnh ở giai đoạn muộn, khi khối u đã di căn. Hiệu quả điều trị ung thư giai đoạn muộn không cao, bệnh nhân tốn nhiều chi phí, thời gian.Theo BSCK2 Nguyễn Ngọc Anh - Nguyên Trưởng Trung tâm Ung bướu và Y học hạt nhân - Bệnh viện Nhân dân 115, muốn tăng hiệu quả điều trị ung thư, đầu tiên phải phát hiện bệnh sớm. Phát hiện sớm giúp bác sĩ lựa chọn liệu trình, phương pháp điều trị phù hợp theo cơ địa, thể trạng bệnh nhân; có chế độ dinh dưỡng linh hoạt cho từng giai đoạn bệnh nhằm củng cố sức khỏe chiến đấu với ung thư.Tuy nhiên, vấn đề đặt ra là làm sao để tầm soát ung thư từ sớm, trong khi các triệu chứng ở giai đoạn đầu thường mờ nhạt, không biểu hiện rõ ràng.
+
+
+
+
+
+
+
+
+
+
+
+
+Phương pháp tầm soát ung thư bằng hình ảnh. Ảnh: Freepik
+
+TS.BS Nguyễn Duy Sinh - Viện Di truyền Y học - Gene Solutions, chia sẻ khoa học hiện đại nhận thấy ung thư xảy ra có liên quan đến các đột biến gene. Khoảng 4-6 đột biến gene khiến một tế bào bình thường chuyển đổi thành tế bào ung thư. Quá trình chuyển đổi này thường diễn ra trong thời gian dài. Đến nay, các nhà khoa học trên thế giới xác định chỉ khoảng 150-400 gene (trong tổng số 20.000-30.000 gene của con người) có thể gây ung thư. Việc khảo sát những tổn thương gene để hỗ trợ tầm soát, phát hiện sớm ung thư ngày càng được nghiên cứu nhiều hơn.Gần đây, thế giới ứng dụng phương pháp mới – tiếp cận những phân mảnh DNA phóng thích từ tế bào vào máu. Qua phân tích, ta xác định được phân mảnh đó là của tế bào bình thường hay DNA của tế bào khối u (gọi là ctDNA - circulating tumor), đồng thời khảo sát được nguồn gốc khối u trong cơ thể. Đây là phương pháp phát hiện sớm đa ung thư (MCED: multi-cancer early detection)."Mỗi loại ung thư thường có những phương pháp khác nhau tầm soát khác nhau, ví dụ như ung thư phổi dựa trên CT ngực liều thấp, ung thư đại trực tràng tầm soát thông qua nội soi đại trực tràng tìm tổn thương, ung thư vú chụp X-quang, nhũ ảnh... Cách tiếp cận dựa trên ctDNA có tính chất bổ sung cho các phương pháp tầm soát ung thư khác. Nếu biết cách kết hợp, nó sẽ là công cụ hỗ trợ bác sĩ phát hiện sớm ung thư", TS Sinh nhấn mạnh.Theo bác sĩ Ngọc Anh, gói tầm soát ung thư hiện nay khá phổ biến ở các bệnh viện trên cả nước. Nhiều bệnh nhân đến bệnh viện, muốn được tầm soát ung thư nhưng không có yếu tố nguy cơ khoanh vùng, tầm soát tràn lan gây ra lãng phí, đôi khi ảnh hưởng đến sức khỏe. Chưa kể, công nghệ chẩn đoán hình ảnh nếu làm nhiều lần dễ đưa ra kết quả dương tính giả. Việc phân tích hình ảnh chính xác đòi hỏi bác sĩ phải được đào tạo bài bản, chuyên môn cao."Nếu như công nghệ gene, phân tích ctDNA ứng dụng rộng rãi tại các bệnh viện, các nhược điểm về chi phí, thời gian được tiết kiệm hơn. Cụ thể, xét nghiệm có thể xác định người bệnh có "dương tính" với ctDNA hay không. Nếu có thì đoạn ctDNA này có nguồn gốc từ bộ phận nào. Từ đó, bác sĩ chỉ định thêm phương pháp chẩn đoán cụ thể hơn. Việc bác sĩ phối hợp các phương pháp cũ và hiện đại với nhau để tầm soát ung thư sẽ tăng khả năng phát hiện sớm, chính xác hơn", bác sĩ Ngọc Anh phân tích.
+
+
+
+
+
+
+
+
+
+
+
+
+Phòng Lab của Gene Solutions đạt chuẩn quốc tế ISO 13485:2022 và EMQN. Ảnh: Gene Solutions
+
+TS.BS Nguyễn Duy Sinh cho biết trong những thập kỷ gần đây, các nhà khoa học đã có nhiều khám phá khác nhau về quá trình methyl hóa DNA. Các nhà nghiên cứu đã cho thấy có mối liên hệ giữa sự methyl hóa DNA bất thường với một số bệnh lý, đặc biệt là bệnh ung thư. Ngoài ra, các nghiên cứu cũng cho thấy các phân mảnh ctDNA của khối u có chiều dài ngắn hơn đáng kể so với những phân mảnh của tế bào bình thường (gọi là cfDNA).Cùng thời điểm này, Viện Di truyền Y học - Gene Solutions cũng nghiên cứu tương tự và nhận thấy những khác biệt rõ rệt ở bệnh nhân ung thư người Việt Nam. Các công bố quốc tế của Gene Solutions cho thấy ctDNA khối u khác biệt đáng kể so với cfDNA của những người khỏe mạnh. Từ đó phát triển công nghệ SPOT-MAS để tìm ctDNA do khối u phóng thích vào máu, là công nghệ "lõi" trong xét nghiệm gene hỗ trợ phát hiện ung thư ở giai đoạn sớm.Dựa trên bộ dữ liệu phân tích gene, kết hợp với thuật toán tiên tiến, SPOT-MAS phát hiện mẫu máu có tín hiệu của ctDNA và gợi ý xác định vị trí khối u."Các chương trình lượng giá, đánh giá hiệu quả cho thấy, công nghệ đạt hiệu quả cao trong phát hiện 5 loại ung thư phổ biến nhất tại Việt Nam hiện nay (gan, phổi, vú, dạ dày, đại trực tràng), với độ nhạy 73,9% và độ đặc hiệu 95,9%", bác sĩ Sinh cho hay.Theo GS.TS.BS Nguyễn Sào Trung, Tổ chức Ung thư Thế giới nhận định ung thư vẫn là vấn đề chính của sức khỏe cộng đồng và càng ngày, gánh nặng ung thư lên cộng đồng càng nhiều. Số bệnh nhân ung thư mới mỗi năm tăng khá nhanh. Năm 2018 thế giới có 18 triệu ca ung thư thì năm 2020 con số này đã lên 19,2 triệu ca. Châu Á chiếm 50% số ca ung thư toàn thế giới. Dự đoán vào năm 2040, thế giới ghi nhận 40 triệu ca mắc ung thư, trong đó cứ 4 nam có một người ung thư và 8 nữ có 1 người mắc ung thư. Có 5 loại ung thư thường gặp nhất hiện nay là ung thư vú, ung thư đại trực tràng, tuyến tiền liệt, phổi và ung thư tuyến giáp.Những yếu tố như gia tăng dân số, già hóa dân số, ô nhiễm môi trường, lối sống thiếu lành mạnh làm tăng nguy cơ mắc ung thư.Thực tế, 80% bệnh nhân ung thư đến bệnh viện ở giai đoạn muộn, cơ hội điều trị không cao. Các bác sĩ khuyên người dân nên chú trọng chăm sóc, lắng nghe cơ thể, nhận biết những dấu hiệu bất thường và khám sức khỏe định kỳ để không bỏ lỡ cơ hội vàng trong điều trị ung thư.Độc giả quan tâm có thể xem lại toàn bộ chương trình tại đây.Hà Phượng
+

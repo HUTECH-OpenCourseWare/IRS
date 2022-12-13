@@ -1,0 +1,19 @@
+Đáp án bài toán đếm hình lục giác của học sinh lớp 5 
+Nhiều bạn đã tìm ra quy luật: khi tách 6 và 5 que diêm của hai hình lục giác ở ngoài cùng bên trái, thì các hình lục giác còn lại đều dùng 4 que diêm.
+
+Đề bài:Một dãy các hình lục giác được tạo thành từ các que diêm như hình vẽ. Nếu người ta đã dùng 2023 que diêm thì có bao nhiêu hình lục giác được tạo thành?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Đáp án:Ta sẽ đếm số hình lục giác theo số que diêm mà không đếm lặp lại. Trong bài toán này, mỗi que diêm là một cạnh của hình lục giác.Để ý rằng: khi tách 6 và 5 que diêm của hai hình lục giác đầu tiên, nằm ngoài cùng bên trái, thì các hình lục giác còn lại đều dùng 4 que diêm.Khi đó, dùng 2023 que diêm thì số hình lục giác được tạo thành là 2 + (2023–11): 4 = 505 (hình).Đáp số: 505 hình lục giácTrần Phương
+
